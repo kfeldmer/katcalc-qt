@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Katronic_Demo_QtQuick">
+    <file alias="qmldir">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/Katronic_Demo_QtQuick/qmldir</file>
+  </qresource>
+</RCC>
+

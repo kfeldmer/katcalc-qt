@@ -1,0 +1,8 @@
+module Katronic_Demo_QtQuick
+typeinfo appKatronic_Demo_QtQuick.qmltypes
+prefer :/Katronic_Demo_QtQuick/
+Main 1.0 Main.qml
+HomeScreen 1.0 UI/HomeScreen/HomeScreen.qml
+CalculatorPage 1.0 UI/CalculatorPage/CalculatorPage.qml
+GeometryPage 1.0 UI/GeometryPage/GeometryPage.qml
+

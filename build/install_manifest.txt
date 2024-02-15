@@ -1,0 +1,1 @@
+/home/karlf/KatronicDemoApps/Qt/ReleaseQt/bin/appKatronic_Demo_QtQuick

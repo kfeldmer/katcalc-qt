@@ -1,0 +1,14 @@
+-rootPath
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick
+-cmake-output
+-output-file
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/.qt_plugins/Qt6_QmlPlugins_Imports_appKatronic_Demo_QtQuick.cmake
+-importPath
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/Katronic_Demo_QtQuick
+-importPath
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build
+-importPath
+/home/karlf/Qt/6.4.3/gcc_64/./qml
+-qrcFiles
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/.rcc/qmake_Katronic_Demo_QtQuick.qrc
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/.rcc/appKatronic_Demo_QtQuick_raw_qml_0.qrc

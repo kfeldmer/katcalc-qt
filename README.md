@@ -1,0 +1,1 @@
+# katcalc-qt

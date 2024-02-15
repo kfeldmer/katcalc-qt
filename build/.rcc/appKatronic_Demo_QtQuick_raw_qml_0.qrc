@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/Katronic_Demo_QtQuick/">
+    <file alias="Main.qml">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/Main.qml</file>
+    <file alias="UI/HomeScreen/HomeScreen.qml">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/HomeScreen/HomeScreen.qml</file>
+    <file alias="UI/CalculatorPage/CalculatorPage.qml">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/CalculatorPage/CalculatorPage.qml</file>
+    <file alias="UI/GeometryPage/GeometryPage.qml">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/GeometryPage/GeometryPage.qml</file>
+    <file alias="UI/Assets/dropdown-arrow.png">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/Assets/dropdown-arrow.png</file>
+    <file alias="UI/Assets/katronic-logo.png">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/Assets/katronic-logo.png</file>
+    <file alias="UI/Assets/dropdown-arrow.png">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/Assets/dropdown-arrow.png</file>
+    <file alias="UI/Assets/katronic-logo.png">/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/UI/Assets/katronic-logo.png</file>
+  </qresource>
+</RCC>
+

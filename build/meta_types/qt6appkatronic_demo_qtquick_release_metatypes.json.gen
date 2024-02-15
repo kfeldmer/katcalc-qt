@@ -1,0 +1,198 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Calculator",
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "outsideDiameter",
+                                "type": "double"
+                            },
+                            {
+                                "name": "wallThickness",
+                                "type": "double"
+                            }
+                        ],
+                        "name": "calculateInnerDiameter",
+                        "returnType": "double"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "value",
+                                "type": "double"
+                            },
+                            {
+                                "name": "targetUnit",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "convertToUnit",
+                        "returnType": "double"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "unit",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "setUnit",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "getUnitIndex",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "outerDiameter",
+                                "type": "double"
+                            }
+                        ],
+                        "name": "setOuterDiameter",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "wallThickness",
+                                "type": "double"
+                            }
+                        ],
+                        "name": "setWallThickness",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "innerDiameter",
+                                "type": "double"
+                            }
+                        ],
+                        "name": "setInnerDiameter",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "innerDiameter",
+                        "notify": "innerDiameterChanged",
+                        "read": "innerDiameter",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setInnerDiameter"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "outerDiameter",
+                        "notify": "outerDiameterChanged",
+                        "read": "outerDiameter",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setOuterDiameter"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "name": "wallThickness",
+                        "notify": "wallThicknessChanged",
+                        "read": "wallThickness",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setWallThickness"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "name": "unit",
+                        "notify": "unitChanged",
+                        "read": "unit",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Calculator",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "outerDiameter",
+                                "type": "double"
+                            },
+                            {
+                                "name": "wallThickness",
+                                "type": "double"
+                            }
+                        ],
+                        "name": "calculateButtonClicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "innerDiameterChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "outerDiameterChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "wallThicknessChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "unitChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "calculator.h",
+        "outputRevision": 68
+    }
+]

@@ -1,0 +1,1 @@
+/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/appKatronic_Demo_QtQuick_autogen/include/../3X2AN3DXFV/moc_calculator.cpp.json

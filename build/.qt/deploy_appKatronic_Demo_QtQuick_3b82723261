@@ -1,0 +1,3 @@
+
+include(/home/karlf/KatronicDemoApps/Qt/Katronic_Demo_QtQuick/build/.qt/QtDeploySupport.cmake)
+_qt_internal_show_skip_runtime_deploy_message("shared Qt libs")
